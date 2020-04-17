@@ -19,15 +19,15 @@ Go file -> new -> other -> spring boot project -> starter
 
 -> Next select library
 
-Restfull api
-Webapi service
+Restfull api :
+Spring web service
 JPA,
 jersey
 
 
 # and Intijj idea
-use spoot boot cli or web
-download and import
+use spoot boot cli 
+or web(https://start.spring.io/) download and open pom.xml file as a project
  
 # in AppConfiguration.java
 

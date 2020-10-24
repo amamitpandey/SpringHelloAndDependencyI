@@ -8,11 +8,13 @@ https://www.youtube.com/watch?v=UfOxcrxhC0s
 
 Install apache maven using brew
 Check $ mvn —version
-Install spring boot cli
-$ brew tap pivotal/tap
-$ brew install springboot
 
-Setup spring tool suit in ecllipes if You don't want to use spoot boot cli or web
+Install spring boot cli
+
+$$ brew tap pivotal/tap
+$$ brew install springboot
+
+Ecllipse Setup: in ecllipes -> help -> marketplace -> spring tool suit, if You don't want to use spoot boot cli or web
 Install spring tool suit by aka
 
 Go file -> new -> other -> spring boot project -> starter
